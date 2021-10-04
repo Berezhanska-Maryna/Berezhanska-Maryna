@@ -21,7 +21,7 @@
 - 📫 How to reach me 
    - Telegram: @berezhanska_maryna
    - Email: berezhanska.maryna@gmail.com
-   - LinkedIn: linkedin.com/in/maryna-berezhanska-658782219"
+   - LinkedIn: linkedin.com/in/maryna-berezhanska-658782219
 
 <!---
 Berezhanska-Maryna/Berezhanska-Maryna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
